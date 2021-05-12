@@ -10,4 +10,4 @@ By querying the `balances` property of the Gauge Smart Contract and providing th
 
 These final balances were used to mint the distributions for SVC001 Fund token. These tokens represent your share of the Assets managed by the fund.
 
-Here is a Full Breakdown of the tokens minted for all of the final deposits to the fund.
+Here is a [Full Breakdown](https://github.com/stacker-ventures/funds-info/blob/main/SVC001/SVC001-distributions.json) of the tokens minted for all of the final deposits to the fund.
