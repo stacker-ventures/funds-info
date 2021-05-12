@@ -1,0 +1,2594 @@
+[
+	{
+		"investor": "0x00610d1b203f9ddf2776d8729b0de854f5dce8ed",
+		"amountDistributed": "290478835995",
+		"totalCommitted": "290478835995",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "290478835995",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x00e839bc0c9a130afe30974914c4b0100756cff4",
+		"amountDistributed": "505838182238",
+		"totalCommitted": "505838182238",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "505838182238",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x01c2c814bec2eb8b74b43db1f878e71dd186851b",
+		"amountDistributed": "19843537105",
+		"totalCommitted": "19843537105",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19843537105",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x04937c1c74b0b850e58f663b550736e16fe37fe0",
+		"amountDistributed": "29755193304",
+		"totalCommitted": "29755193304",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "29755193304",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x050ee024a0ffd8b9bd383271835b27dd66c3fec3",
+		"amountDistributed": "9918426517",
+		"totalCommitted": "9918426517",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918426517",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x05b5aa4221cd04dd686bf8306110c0856aa3fa08",
+		"amountDistributed": "18844943108",
+		"totalCommitted": "18844943108",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "18844943108",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x071fe6456f926722b2731087395a5335612269fd",
+		"amountDistributed": "56415508244",
+		"totalCommitted": "56415508244",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "56415508244",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x0be9d3def703ea7eb101445a9e982f296e882f71",
+		"amountDistributed": "297552579534",
+		"totalCommitted": "297552579534",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "297552579534",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x0d204ac57a5cc7682cb1985041ed366cd2cb3826",
+		"amountDistributed": "3967364683",
+		"totalCommitted": "3967364683",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "3967364683",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x0d8ee18688aacd36c4bdbdc65244e085ac89f700",
+		"amountDistributed": "49615295659",
+		"totalCommitted": "49615295659",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "49615295659",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x0d996171e7883a286ef720030935f72d0bac8219",
+		"amountDistributed": "4959211995",
+		"totalCommitted": "4959211995",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4959211995",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x0e78a00d672f5fbe57e2328ddf6e484d8d1be60e",
+		"amountDistributed": "59514110003",
+		"totalCommitted": "59514110003",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "59514110003",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x0eb1fe17657dc4f1dc04e58d4d1ff3b891cea329",
+		"amountDistributed": "19836847996",
+		"totalCommitted": "19836847996",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19836847996",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x1026206a90adfd1720280bba48abd5e2252f6d8e",
+		"amountDistributed": "12893912303",
+		"totalCommitted": "12893912303",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "12893912303",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x121b5f82bbad0073ad1102508df71d06a989f713",
+		"amountDistributed": "114872984156",
+		"totalCommitted": "114872984156",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "114872984156",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x134abf8bff5dcb66a7fee8a71119646bf645f232",
+		"amountDistributed": "17856674310",
+		"totalCommitted": "17856674310",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "17856674310",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x13889f184902a81d25a092ccb9318da14481e379",
+		"amountDistributed": "595245300534",
+		"totalCommitted": "595245300534",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "595245300534",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x1407c9d09d1603a9a5b806a0c00f4d3734df15e0",
+		"amountDistributed": "496047479108",
+		"totalCommitted": "496047479108",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "496047479108",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x1423fcc74da82fa03d70fa1f7a122db1ba231783",
+		"amountDistributed": "59519123813",
+		"totalCommitted": "59519123813",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "59519123813",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x1429d9d28c774b16a7d89f20b961d53aab4590d9",
+		"amountDistributed": "29755349232",
+		"totalCommitted": "29755349232",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "29755349232",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x145b8d0fe270b7bc4c362ecfa12e5f97e6788c48",
+		"amountDistributed": "495948641269",
+		"totalCommitted": "495948641269",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "495948641269",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x147f5ff38649d55a05332a789835edae19955ba9",
+		"amountDistributed": "5706738509",
+		"totalCommitted": "5706738509",
+		"finalSoftCommits": "5706738509",
+		"finalHardCommits": "0",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x152a502e2e04583d075fb923fb710c25e2ba4784",
+		"amountDistributed": "74426368605",
+		"totalCommitted": "74426368605",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "74426368605",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x152ad1bf404061fff6d893480de08ed64035bdf4",
+		"amountDistributed": "39674471778",
+		"totalCommitted": "39674471778",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "39674471778",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x15d8fd2653c10faa953df207a66bfb58aee9c95e",
+		"amountDistributed": "1984189379",
+		"totalCommitted": "1984189379",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "1984189379",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x167a412c011decae9f60921f6069286034aa8edd",
+		"amountDistributed": "99186325500",
+		"totalCommitted": "99186325500",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "99186325500",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x16bd354083e2de7699466e3745ea76f033234fae",
+		"amountDistributed": "13885747384",
+		"totalCommitted": "13885747384",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "13885747384",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x196a37946c3d93e9a5309f539ae28b774a32411f",
+		"amountDistributed": "19841893493",
+		"totalCommitted": "19841893493",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19841893493",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x1c24525bf878ea9d2ab7f07d9b08fb38b99de470",
+		"amountDistributed": "196519002033",
+		"totalCommitted": "196519002033",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "196519002033",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x1ce2304369d957fc1f0dd32c983f445e449f4c7a",
+		"amountDistributed": "198419253311",
+		"totalCommitted": "198419253311",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "198419253311",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x1f5295fdf5861d651ac176db47ad5518ac085c80",
+		"amountDistributed": "29762037881",
+		"totalCommitted": "29762037881",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "29762037881",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x1f68aaf4edb396186b574eed8115c66435160aa1",
+		"amountDistributed": "3472333194",
+		"totalCommitted": "3472333194",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "3472333194",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x1f7422669b551d60cad517eec37cfb705f532876",
+		"amountDistributed": "19848221270",
+		"totalCommitted": "19848221270",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19848221270",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x20b7d584b86644b80115c15d19996b40568614a8",
+		"amountDistributed": "111993163168",
+		"totalCommitted": "111993163168",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "111993163168",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x217c70a564a9bc0572426fc068eff0caf70e6b41",
+		"amountDistributed": "29755167393",
+		"totalCommitted": "29755167393",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "29755167393",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x21f0ea893b517a6487ed8b4a357b52551eb4dbd2",
+		"amountDistributed": "29755274273",
+		"totalCommitted": "29755274273",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "29755274273",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x2312d6100c9f90ffcace77a396aa605c4959d5b4",
+		"amountDistributed": "3967755379",
+		"totalCommitted": "3967755379",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "3967755379",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x23a49a9930f5b562c6b1096c3e6b5bec133e8b2e",
+		"amountDistributed": "19837419978",
+		"totalCommitted": "19837419978",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19837419978",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x23f05902db7c8cf60a1e7162755ebb11ed5ee9d5",
+		"amountDistributed": "4463277824",
+		"totalCommitted": "4463277824",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4463277824",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x241589b31e1b683c4b9bd79ceae807c6c123472a",
+		"amountDistributed": "9918424439",
+		"totalCommitted": "9918424439",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918424439",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x2438510636fb9d75146d6b12211803de2d66142f",
+		"amountDistributed": "19841934679",
+		"totalCommitted": "19841934679",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19841934679",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x25fff4689be582515ac968cc85e9b6d56076a297",
+		"amountDistributed": "7970494991",
+		"totalCommitted": "7970494991",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "7970494991",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x2648fed87c5c424dfd4217aa2aa9c35dfd646494",
+		"amountDistributed": "19840851193",
+		"totalCommitted": "19840851193",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19840851193",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x26b567b5efeb4d1a0482c1a417437fa6bedb0639",
+		"amountDistributed": "49616303768",
+		"totalCommitted": "49616303768",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "49616303768",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x27818eec892a032989fb24a18312473580026846",
+		"amountDistributed": "19836782234",
+		"totalCommitted": "19836782234",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19836782234",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x2784a04dd1b336476acf8d58f6f0480bc4edb930",
+		"amountDistributed": "20764325226",
+		"totalCommitted": "20764325226",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "20764325226",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x27be86b16df9a1c64673cc2d2aa291faee105812",
+		"amountDistributed": "3676505445",
+		"totalCommitted": "3676505445",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "3676505445",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x28001ac45e54b605cf8d40dd946f1ec250ce7d62",
+		"amountDistributed": "25787898410",
+		"totalCommitted": "25787898410",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "25787898410",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x2829419f7cde7054237ca8610ce29e39bcb0af30",
+		"amountDistributed": "19849660736",
+		"totalCommitted": "19849660736",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19849660736",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x2855a35e02e0caf124ce2a1b6a584b9f737ef225",
+		"amountDistributed": "16365406247",
+		"totalCommitted": "16365406247",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "16365406247",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x289646c30a166c83b35cb61776ee3885ff6c0e5d",
+		"amountDistributed": "1983678017494",
+		"totalCommitted": "1983678017494",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "1983678017494",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x28c4b2eb75686861527e0c17f147b8f91ea160c7",
+		"amountDistributed": "2281322218",
+		"totalCommitted": "2281322218",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "2281322218",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x28ed88c5f72c4e6dfc704f4cc71a4b7756bc4dbc",
+		"amountDistributed": "496051802737",
+		"totalCommitted": "496051802737",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "496051802737",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x293e93abc12bd925b31fb33c2e84bd7127c3d513",
+		"amountDistributed": "337312116078",
+		"totalCommitted": "337312116078",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "337312116078",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x295a4bfd7273697471f76cdecad001b73bfe268e",
+		"amountDistributed": "24801214611",
+		"totalCommitted": "24801214611",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "24801214611",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x2a186d164b493bb349aeb583f032b9525a22cae9",
+		"amountDistributed": "593657659",
+		"totalCommitted": "593657659",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "593657659",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x2b269fc672195ae80cd7702c364a466543e74827",
+		"amountDistributed": "6303717194",
+		"totalCommitted": "6303717194",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "6303717194",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x2c6e2e2eb9153631aa098d671df870a0f9026d74",
+		"amountDistributed": "7935924951",
+		"totalCommitted": "7935924951",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "7935924951",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x2cf3213bf801a183360df6931c31422b33566a58",
+		"amountDistributed": "8926556581",
+		"totalCommitted": "8926556581",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "8926556581",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x2e90ef927463d58b26ac3da376851522edfe776a",
+		"amountDistributed": "1338985482",
+		"totalCommitted": "1338985482",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "1338985482",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x2ec848474c85456965a0174f65b95fb5c706ad53",
+		"amountDistributed": "42649075279",
+		"totalCommitted": "42649075279",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "42649075279",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x2edc3e892c775632ff634efc3eaca67c60647ad9",
+		"amountDistributed": "19352940501",
+		"totalCommitted": "19352940501",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19352940501",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x2ef70e8a2815aa23415ce37f227a0f820b493163",
+		"amountDistributed": "9918398439",
+		"totalCommitted": "9918398439",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918398439",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x2fe6f72bec74a962e689e68beee389bab175936d",
+		"amountDistributed": "11902106047",
+		"totalCommitted": "11902106047",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "11902106047",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x30e3784b28332b7cb268988f9e81eeff9e3bf2dc",
+		"amountDistributed": "49594932566",
+		"totalCommitted": "49594932566",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "49594932566",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x3133d8f064b45fe2d1edc21c3fbf5543acc9c0d0",
+		"amountDistributed": "3471693184",
+		"totalCommitted": "3471693184",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "3471693184",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x315c5861ac712809ea4dd49f22c7a13cdf988860",
+		"amountDistributed": "20170551344",
+		"totalCommitted": "20170551344",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "20170551344",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x31a79c7f44820161c645115bbd2ce96be9336b3f",
+		"amountDistributed": "5303304432",
+		"totalCommitted": "5303304432",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "5303304432",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x325409632bccffac706d378a2eca57cafa21ab11",
+		"amountDistributed": "4962245303",
+		"totalCommitted": "4962245303",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4962245303",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x329de1afe6e87e4c0c4716a22067a852c42898a7",
+		"amountDistributed": "793877613",
+		"totalCommitted": "793877613",
+		"finalSoftCommits": "793877613",
+		"finalHardCommits": "0",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x32b487b44f4e7c6485209dbab4e985bea8dc0b06",
+		"amountDistributed": "155619886744",
+		"totalCommitted": "155619886744",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "155619886744",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x32c0a4c8cb0d937c5e2f188a752ec2f591627b39",
+		"amountDistributed": "39673550015",
+		"totalCommitted": "39673550015",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "39673550015",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x34369dd9da1cddcc0a23838ce8dc341ea56f8c84",
+		"amountDistributed": "111116024026",
+		"totalCommitted": "111116024026",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "111116024026",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x3469d3be01d54f417136cfde67163822647a6e6d",
+		"amountDistributed": "49554833818",
+		"totalCommitted": "49554833818",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "49554833818",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x35d5c82344f2532bbaddba1588f687edd66606ee",
+		"amountDistributed": "49600211435",
+		"totalCommitted": "49600211435",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "49600211435",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x37df0e34dc942d2ab60206748fb101fa51fd7992",
+		"amountDistributed": "4760847337",
+		"totalCommitted": "4760847337",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4760847337",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x38550419b4756aed398dc764f9dac43e361f5cd4",
+		"amountDistributed": "2976236578",
+		"totalCommitted": "2976236578",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "2976236578",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x386c82b52d6e0dfb636c51b577577140cc1df4bf",
+		"amountDistributed": "9918422517",
+		"totalCommitted": "9918422517",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918422517",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x39b75fcc7d203fe0a0b60eaac02ecb6b5173a879",
+		"amountDistributed": "1785314916",
+		"totalCommitted": "1785314916",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "1785314916",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x3a4afd36e3f59c53080b39e4b46e6e0aba451487",
+		"amountDistributed": "4760843197",
+		"totalCommitted": "4760843197",
+		"finalSoftCommits": "4760843197",
+		"finalHardCommits": "0",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x3b02dfc9876cb148bc73108d7f0ead165fdf7437",
+		"amountDistributed": "10265568769",
+		"totalCommitted": "10265568769",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "10265568769",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x3b63b32b4965092480f7ac9a58e4d88debdd9a3d",
+		"amountDistributed": "14880920986",
+		"totalCommitted": "14880920986",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "14880920986",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x3b871244e28fdf411ca25fd9df1a97d2157c70c7",
+		"amountDistributed": "9918390364",
+		"totalCommitted": "9918390364",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918390364",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x3dca07e16b2becd3eb76a9f9ce240b525451f887",
+		"amountDistributed": "148813170385",
+		"totalCommitted": "148813170385",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "148813170385",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x3f0da81e6245dbf27d8972e1cd5ef0ab7af0c6c1",
+		"amountDistributed": "9918422506",
+		"totalCommitted": "9918422506",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918422506",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x40706b5a9ee83b6acb4d6eeebbe81d530893ecf4",
+		"amountDistributed": "99295278173",
+		"totalCommitted": "99295278173",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "99295278173",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x4164a39dabcb13c555bd795a64c59a2b31febc9e",
+		"amountDistributed": "53561528083",
+		"totalCommitted": "53561528083",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "53561528083",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x41d3bed71e3cf5330ff49c0778790c79ad8f6b8b",
+		"amountDistributed": "54557882360",
+		"totalCommitted": "54557882360",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "54557882360",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x4208c5c5c4260f9a4c6d732b50bd5a3b10ea4aa9",
+		"amountDistributed": "9918391597",
+		"totalCommitted": "9918391597",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918391597",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x424be8df5db7b04b1063bd4ee0f99db445c59624",
+		"amountDistributed": "138859019506",
+		"totalCommitted": "138859019506",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "138859019506",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x42db18d76f0cde2a2c6115017f177fffae4d5409",
+		"amountDistributed": "4959194938",
+		"totalCommitted": "4959194938",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4959194938",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x432cbdce8596e8d5eae91e0a744909672c587681",
+		"amountDistributed": "1388574287",
+		"totalCommitted": "1388574287",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "1388574287",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x43484020ee4b06022ad57cbf8932f5c8aafc9d59",
+		"amountDistributed": "21826112686",
+		"totalCommitted": "21826112686",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "21826112686",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x4475d1be974301106036061898b26fd5d62dbf5c",
+		"amountDistributed": "9918423250",
+		"totalCommitted": "9918423250",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918423250",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x461e76a4fe9f27605d4097a646837c32f1ccc31c",
+		"amountDistributed": "143758402762",
+		"totalCommitted": "143758402762",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "143758402762",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x4831b73ee8feca6c8e5d196c070044cc1d63e249",
+		"amountDistributed": "9922890429",
+		"totalCommitted": "9922890429",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9922890429",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x484a65471112c5e0ec266bb9a366e81e13306ab4",
+		"amountDistributed": "75685933709",
+		"totalCommitted": "75685933709",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "75685933709",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x4b5c73e1bc32cea2f77a0ce104e3e9c81b0c850f",
+		"amountDistributed": "7936792479",
+		"totalCommitted": "7936792479",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "7936792479",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x4b676d2ac8fc788a96d057ce655f532d4bc83fd2",
+		"amountDistributed": "4447596",
+		"totalCommitted": "4447596",
+		"finalSoftCommits": "4447596",
+		"finalHardCommits": "0",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x4c84d1ca29f9269e0fea3d126cebd3ddb1c80268",
+		"amountDistributed": "19836773814",
+		"totalCommitted": "19836773814",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19836773814",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x4c94368ccaff5859d7845be0f5b4a7b3ff971120",
+		"amountDistributed": "6625238406",
+		"totalCommitted": "6625238406",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "6625238406",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x502b69542619449a77a981521aa930fe5af654ba",
+		"amountDistributed": "121432139245",
+		"totalCommitted": "121432139245",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "121432139245",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x505846a0a89dd26fa5cd0677fd5406039c218620",
+		"amountDistributed": "49598652233",
+		"totalCommitted": "49598652233",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "49598652233",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x50ca32ab079be5a2dd294314b9db6c4158fffef1",
+		"amountDistributed": "29762796712",
+		"totalCommitted": "29762796712",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "29762796712",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x51c71e0b1b3bf90d8b1bf6ab1222c49b9cfbb8e7",
+		"amountDistributed": "9918422591",
+		"totalCommitted": "9918422591",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918422591",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x51ec66e63199176f59c80268e0be6ffa91fab220",
+		"amountDistributed": "99240115067",
+		"totalCommitted": "99240115067",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "99240115067",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x530eb6f15783f703b1ceb2eccdd0d504c6943581",
+		"amountDistributed": "1289498699661",
+		"totalCommitted": "1289498699661",
+		"finalSoftCommits": "1190305242278",
+		"finalHardCommits": "99193457383",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x533414425db91dcdf6b75fc0780208de42b72dbb",
+		"amountDistributed": "148814383034",
+		"totalCommitted": "148814383034",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "148814383034",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x54963c854c0047aba72197e55ca6c21f464acb6b",
+		"amountDistributed": "16861294074",
+		"totalCommitted": "16861294074",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "16861294074",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x54c7c4015f9165665ea6843f3c6dd3cff3291bc4",
+		"amountDistributed": "75393922430",
+		"totalCommitted": "75393922430",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "75393922430",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x562b2b6860ae55621181ff70b8fe34fa96eeaa16",
+		"amountDistributed": "32745983509",
+		"totalCommitted": "32745983509",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "32745983509",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x56b8980da6149a7abeed986665282d65e644dadb",
+		"amountDistributed": "1983956755",
+		"totalCommitted": "1983956755",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "1983956755",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x582b90dd9c01a341acd0b4ecf85ceaf0c15bc0ab",
+		"amountDistributed": "14878001449",
+		"totalCommitted": "14878001449",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "14878001449",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x58ee83c8993018da913404ba434734d13d376524",
+		"amountDistributed": "39678591675",
+		"totalCommitted": "39678591675",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "39678591675",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x59435f4e2ee88a9bbe07125876363196b80e8e17",
+		"amountDistributed": "9918423505",
+		"totalCommitted": "9918423505",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918423505",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x5993bad196c8786baaedb5a5868f338fe6ce4cc2",
+		"amountDistributed": "29755275000",
+		"totalCommitted": "29755275000",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "29755275000",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x599e0882768b34bedbc1b8f5a03ed1301fae359b",
+		"amountDistributed": "49592119698",
+		"totalCommitted": "49592119698",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "49592119698",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x59a9dcd01110ceb4499d224d00cbd0425f10ebdf",
+		"amountDistributed": "19860701606",
+		"totalCommitted": "19860701606",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19860701606",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x59c83d86339ccc3758f3d170c572524eac61d98b",
+		"amountDistributed": "438154502",
+		"totalCommitted": "438154502",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "438154502",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x5a3db3d8657dfae858e76f626fbd2699a834ca5e",
+		"amountDistributed": "87281863748",
+		"totalCommitted": "87281863748",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "87281863748",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x5a8ca393bf50c0b5950a1e896fb1d5adf1abb371",
+		"amountDistributed": "49594765996",
+		"totalCommitted": "49594765996",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "49594765996",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x5ad32c7aee7f06575ee0740cda8e6bd095cc3919",
+		"amountDistributed": "357155306789",
+		"totalCommitted": "357155306789",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "357155306789",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x5ce0ee9c80dd379df583a85827a03a8100422b13",
+		"amountDistributed": "54432443002",
+		"totalCommitted": "54432443002",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "54432443002",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x5f439a0e0a04a5b8f8979f6bf0ba505b43a8f8fc",
+		"amountDistributed": "8635562697",
+		"totalCommitted": "8635562697",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "8635562697",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x5f57222fa85193cc44ea2de750d00ae6447f9efe",
+		"amountDistributed": "9918424046",
+		"totalCommitted": "9918424046",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918424046",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x5fed4d99be617ff0719cd6271d3e8d63a58d72ef",
+		"amountDistributed": "40149662233",
+		"totalCommitted": "40149662233",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "40149662233",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x5ff12d617f944bcda83daff7fff4ed75a003c14b",
+		"amountDistributed": "9920952061",
+		"totalCommitted": "9920952061",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9920952061",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x60cc4a88a00ed52159aba1909cfae9f17468b395",
+		"amountDistributed": "9918389761",
+		"totalCommitted": "9918389761",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918389761",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x60df8a187bd4edc720e272f6ea0d068355ef39ab",
+		"amountDistributed": "49592000466",
+		"totalCommitted": "49592000466",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "49592000466",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x6132b5b8c2b5eea104039a4dc1ff4c3b2237236e",
+		"amountDistributed": "5555671812",
+		"totalCommitted": "5555671812",
+		"finalSoftCommits": "5555671812",
+		"finalHardCommits": "0",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x6283511fc53c60c0a0a1848ac88ff46b5d2496ea",
+		"amountDistributed": "9919578511",
+		"totalCommitted": "9919578511",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9919578511",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x64cee4d9d5f4f7a231dd53d48c1d19bebd71dbe0",
+		"amountDistributed": "496046669",
+		"totalCommitted": "496046669",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "496046669",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x6504e199497772532e93b2ed4b9b0681b5641f88",
+		"amountDistributed": "99184245265",
+		"totalCommitted": "99184245265",
+		"finalSoftCommits": "49592122627",
+		"finalHardCommits": "49592122638",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x668873889baf61df613878ef361d6019368b363b",
+		"amountDistributed": "9918476074",
+		"totalCommitted": "9918476074",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918476074",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x6704f611eaa1f9e385b52248b790415b795b47f4",
+		"amountDistributed": "49591964432",
+		"totalCommitted": "49591964432",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "49591964432",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x670647441d9c24d981923c9293a2e4eae6d0c8b3",
+		"amountDistributed": "297552742810",
+		"totalCommitted": "297552742810",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "297552742810",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x67b01e4eb777f0e10d1ecbcef1b769dff797aaac",
+		"amountDistributed": "4364106010",
+		"totalCommitted": "4364106010",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4364106010",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x6916683ab95b955bb73caf8bab92700a2469d758",
+		"amountDistributed": "9918389702",
+		"totalCommitted": "9918389702",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918389702",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x6977e753e022f65ebeb170d8267b2ea54a431523",
+		"amountDistributed": "4959955543",
+		"totalCommitted": "4959955543",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4959955543",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x69c509e9765c49cc6b9b4568b90aa47b89f4992f",
+		"amountDistributed": "49592117471",
+		"totalCommitted": "49592117471",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "49592117471",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x69d2bc658490c7ddda797d398e862ed4eed2eb80",
+		"amountDistributed": "24795981308",
+		"totalCommitted": "24795981308",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "24795981308",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x6b0bf3dd3f83c1776769a87cb080ef370288f355",
+		"amountDistributed": "29769535615",
+		"totalCommitted": "29769535615",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "29769535615",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x6b13d32bd18474a7841774f00f789fd93798bec4",
+		"amountDistributed": "217538348071",
+		"totalCommitted": "217538348071",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "217538348071",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x6c6541cc3ec6bfc2d7b0ca48ccb0225cbbea9b59",
+		"amountDistributed": "893170683082",
+		"totalCommitted": "893170683082",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "893170683082",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x6ca4a08e27adfd51240ec58902282162a5f35679",
+		"amountDistributed": "19836865468",
+		"totalCommitted": "19836865468",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19836865468",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x6d7765f1c642147310faae8bf962daa6f0cc7393",
+		"amountDistributed": "9724327502",
+		"totalCommitted": "9724327502",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9724327502",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x6e810aeeff5b8abb97d366656d0eb68723313fbc",
+		"amountDistributed": "11596050866",
+		"totalCommitted": "11596050866",
+		"finalSoftCommits": "7132760045",
+		"finalHardCommits": "4463290821",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x6f08c4c5899003a9590915156e07a8d910874e8e",
+		"amountDistributed": "4086389540",
+		"totalCommitted": "4086389540",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4086389540",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x70335169b30ac404c64246dcc951c8131fb074b5",
+		"amountDistributed": "24796055921",
+		"totalCommitted": "24796055921",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "24796055921",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x713e49bccd807d9b27795045e11b9f33ca5a7bb4",
+		"amountDistributed": "19838871711",
+		"totalCommitted": "19838871711",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19838871711",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x7285502ed0a0ed25f65941e480bda7114492acf9",
+		"amountDistributed": "19846215468",
+		"totalCommitted": "19846215468",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19846215468",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x7375cffcca7207f87a926466b867ce7a44c04a95",
+		"amountDistributed": "1984812375",
+		"totalCommitted": "1984812375",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "1984812375",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x739e7c81992cdfc9ea07a03709cfc2557b18ac29",
+		"amountDistributed": "4960489075",
+		"totalCommitted": "4960489075",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4960489075",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x73d550883eb6938898f93f94b0d55e1a010ced75",
+		"amountDistributed": "7625567608",
+		"totalCommitted": "7625567608",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "7625567608",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x73f9bd4afce11fdbfcc3ea69ed1ca9e471d27ff1",
+		"amountDistributed": "49591956567",
+		"totalCommitted": "49591956567",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "49591956567",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x74e5b933b8e4a9b212b3d4b94811427d529e3471",
+		"amountDistributed": "595361778",
+		"totalCommitted": "595361778",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "595361778",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x751893105b1ece3b7feda367b92cd1bcf2abd673",
+		"amountDistributed": "119020649730",
+		"totalCommitted": "119020649730",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "119020649730",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x75f12c21e4eda606591d6ac191539446d9a9491d",
+		"amountDistributed": "40665538609",
+		"totalCommitted": "40665538609",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "40665538609",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x76da9f88e63a85ba8bfa19f3821d5a271753d3dc",
+		"amountDistributed": "1345026907",
+		"totalCommitted": "1345026907",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "1345026907",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x76f4a5b2d3af3f57a0ad6d020b94c3802432189f",
+		"amountDistributed": "24796061124",
+		"totalCommitted": "24796061124",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "24796061124",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x775c4e6f098e2133eae71e50535954c0f5bc9c2d",
+		"amountDistributed": "99184210126",
+		"totalCommitted": "99184210126",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "99184210126",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x7762947089ecc6171cf7f7ba57aff087b1d4096a",
+		"amountDistributed": "12897164319",
+		"totalCommitted": "12897164319",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "12897164319",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x77850cf82e865aa3158673267e2a21d86c3f4ddc",
+		"amountDistributed": "128941746930",
+		"totalCommitted": "128941746930",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "128941746930",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x77aaf1681f697b59f17b6eacf4affab6369e3950",
+		"amountDistributed": "59609226027",
+		"totalCommitted": "59609226027",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "59609226027",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x77f082d68562400c5ee1bae435a0a1294f0445b4",
+		"amountDistributed": "123980263607",
+		"totalCommitted": "123980263607",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "123980263607",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x79728517ddf4500837ecf737e99a7e001d8ed615",
+		"amountDistributed": "41687170398",
+		"totalCommitted": "41687170398",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "41687170398",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x7aa9d09a6d283f5b5ec724d7dd8fa70673553183",
+		"amountDistributed": "247970518858",
+		"totalCommitted": "247970518858",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "247970518858",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x7bc1d6e8150d4c96917901c26c922dd64654b3c3",
+		"amountDistributed": "1200129201",
+		"totalCommitted": "1200129201",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "1200129201",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x7c3d0402278366a3e1ed3f2b997005b7ca0e1ebe",
+		"amountDistributed": "10666867993",
+		"totalCommitted": "10666867993",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "10666867993",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x7c5bcf17f910eccb897783113bf5f27e3c5133a3",
+		"amountDistributed": "56535013267",
+		"totalCommitted": "56535013267",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "56535013267",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x7ce7c0c13293036d980bc6d11bdf660a6dbb0d8a",
+		"amountDistributed": "148776393379",
+		"totalCommitted": "148776393379",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "148776393379",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x7d97ced4edc91f325b27fdce140232146e747e3c",
+		"amountDistributed": "40970624706",
+		"totalCommitted": "40970624706",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "40970624706",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x7e90717fe24c97ce3355599c9f25d80944793b40",
+		"amountDistributed": "3372594036",
+		"totalCommitted": "3372594036",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "3372594036",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x7f3e244e9d8fda47db77d7a24e21bfb21894fc38",
+		"amountDistributed": "2082868620",
+		"totalCommitted": "2082868620",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "2082868620",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x7f8c1877ed0da352f78be4fe4cda58bb804a30df",
+		"amountDistributed": "4959212036",
+		"totalCommitted": "4959212036",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4959212036",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x82d8d99955e38239d865a9dd0d44ef5dd06ba99c",
+		"amountDistributed": "347235522940",
+		"totalCommitted": "347235522940",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "347235522940",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x8356ba16cd2d5b5b8da4b812cfcb9dcb88966ecc",
+		"amountDistributed": "20043976989",
+		"totalCommitted": "20043976989",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "20043976989",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x83f9c13a435b8f7ce2663a3b26826a90b4fe201f",
+		"amountDistributed": "4960242411",
+		"totalCommitted": "4960242411",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4960242411",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x84d40091f06fb306740dc2912e50253b83e890eb",
+		"amountDistributed": "4959206019",
+		"totalCommitted": "4959206019",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4959206019",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x84f5ccc46ad58cafa8d6c3b89dca945804eb00d6",
+		"amountDistributed": "18250530687",
+		"totalCommitted": "18250530687",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "18250530687",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x8544ff77538012fc127805627fac715d845a9560",
+		"amountDistributed": "860348295",
+		"totalCommitted": "860348295",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "860348295",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x85ede3251f28a74a0cee4a8794e72d176403c691",
+		"amountDistributed": "8912245085",
+		"totalCommitted": "8912245085",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "8912245085",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x87885f4d036d8bbf56c1721e9975073b81f5cd9c",
+		"amountDistributed": "9918388943",
+		"totalCommitted": "9918388943",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918388943",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x87b675e9219a3b870df51449268b8c8c2241bf0c",
+		"amountDistributed": "5951055459",
+		"totalCommitted": "5951055459",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "5951055459",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x880d930b4ac0b73966de27c5267e304d2093bdde",
+		"amountDistributed": "644854739658",
+		"totalCommitted": "644854739658",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "644854739658",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x88f516c04969f470888473458b5e09342da08b7a",
+		"amountDistributed": "19836852961",
+		"totalCommitted": "19836852961",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19836852961",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x88f8bf23eb00290a37da2f059eb35160e59ba95a",
+		"amountDistributed": "212265498698",
+		"totalCommitted": "212265498698",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "212265498698",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x8b17cf9d47ebefee53726e2fa42ba65426298270",
+		"amountDistributed": "19836833219",
+		"totalCommitted": "19836833219",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19836833219",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x8cc7355a5c07207ef6ee188f7b74757b6bab7dac",
+		"amountDistributed": "5951043628",
+		"totalCommitted": "5951043628",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "5951043628",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x8e3fde41fbc5aeb55c21ccb7d19ba6bb673792ab",
+		"amountDistributed": "19836845689",
+		"totalCommitted": "19836845689",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19836845689",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x8f5b76e8f715523bf388ffdaa41ede0de48764b8",
+		"amountDistributed": "29755261622",
+		"totalCommitted": "29755261622",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "29755261622",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x8fbc89b8d9ed06f9454b8bd45277e64e1977693e",
+		"amountDistributed": "9614162755",
+		"totalCommitted": "9614162755",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9614162755",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x9056ab0db92ba9fdedb1534cfc975e46a0579678",
+		"amountDistributed": "69447039589",
+		"totalCommitted": "69447039589",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "69447039589",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x911aceda3945c9352b85b6d85f896f7f35da2a17",
+		"amountDistributed": "14037259981",
+		"totalCommitted": "14037259981",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "14037259981",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x9145a239211ddaf2e08113d9ccdfd8c817725556",
+		"amountDistributed": "13885753839",
+		"totalCommitted": "13885753839",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "13885753839",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x93f513a75b6c737354ad71c054b9e66ff9b7bd42",
+		"amountDistributed": "19836812968",
+		"totalCommitted": "19836812968",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19836812968",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x944d27f228c5b68e5f190c3a16f77b307afdb93f",
+		"amountDistributed": "329417739475",
+		"totalCommitted": "329417739475",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "329417739475",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x94c60011e90ff6f9cb9d6ad55fa75dfd9efb8dc4",
+		"amountDistributed": "14877640273",
+		"totalCommitted": "14877640273",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "14877640273",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x94de7e2c73529ebf3206aa3459e699fbcdfcd49b",
+		"amountDistributed": "19841921404",
+		"totalCommitted": "19841921404",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19841921404",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x95a377c589217cab0538cbe80923b6b2c0969a8e",
+		"amountDistributed": "167126178251",
+		"totalCommitted": "167126178251",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "167126178251",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x96157c6ec6cad01cc759ff6a469d7c8b93743524",
+		"amountDistributed": "57526645896",
+		"totalCommitted": "57526645896",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "57526645896",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x967533cdfaed8f27675c7410275c11460964e244",
+		"amountDistributed": "9918548389",
+		"totalCommitted": "9918548389",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918548389",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x968d7126eed5cf59189e78d806fe9b03f290bcb9",
+		"amountDistributed": "77919840877",
+		"totalCommitted": "77919840877",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "77919840877",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x9741ee21d9710bbc366bdf80b309388c32a3fac9",
+		"amountDistributed": "9920404608",
+		"totalCommitted": "9920404608",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9920404608",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x97cf7d6ff9d0667ac750fd65f214772f21cc4437",
+		"amountDistributed": "9919136423",
+		"totalCommitted": "9919136423",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9919136423",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x984c5d268b220784e87fbe8edbb5c6b9f7ba9fc4",
+		"amountDistributed": "9924220097",
+		"totalCommitted": "9924220097",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9924220097",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x988cece1a783e62627cf2e95b7dcd46cd6217f15",
+		"amountDistributed": "11986407792",
+		"totalCommitted": "11986407792",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "11986407792",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x98a4bb936b3ef8a11be04ff098412629181a9ac2",
+		"amountDistributed": "416572312",
+		"totalCommitted": "416572312",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "416572312",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x99832cd4f7d7c4dd54a28d8a486fb54c34ecb300",
+		"amountDistributed": "9920298360",
+		"totalCommitted": "9920298360",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9920298360",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x99a8220874c0ca868eb628b92be11375ccef11d8",
+		"amountDistributed": "1983800640",
+		"totalCommitted": "1983800640",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "1983800640",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x99c16d5f932ceccfaf53143e85ae18f03256205d",
+		"amountDistributed": "99184073097",
+		"totalCommitted": "99184073097",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "99184073097",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x9a6f1e60320e7ec7a328e14e9b2be63ef7303f95",
+		"amountDistributed": "336766292",
+		"totalCommitted": "336766292",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "336766292",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x9ae82229ed6b302ebec03d0da6c14431f110b3b2",
+		"amountDistributed": "4448188866",
+		"totalCommitted": "4448188866",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4448188866",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x9bc3d5e7b6bcb527f74c886aebda20177b45da85",
+		"amountDistributed": "49626549406",
+		"totalCommitted": "49626549406",
+		"finalSoftCommits": "49626549406",
+		"finalHardCommits": "0",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x9c01148c464cf06d135ad35d3d633ab4b46b9b78",
+		"amountDistributed": "119037021845",
+		"totalCommitted": "119037021845",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "119037021845",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x9dc2e2be150ba6e398cdf3f0f9c27fdcf900fdd5",
+		"amountDistributed": "5951053354",
+		"totalCommitted": "5951053354",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "5951053354",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x9e1320278a86e7a8652858abf31e3108899c2d0d",
+		"amountDistributed": "991842443",
+		"totalCommitted": "991842443",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "991842443",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x9e2f641560119e5148d13dd3227416e8399a5dd3",
+		"amountDistributed": "24796045864",
+		"totalCommitted": "24796045864",
+		"finalSoftCommits": "24796045864",
+		"finalHardCommits": "0",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0x9f37531482ef85b860a8ea845533ac715635a55c",
+		"amountDistributed": "9918424759",
+		"totalCommitted": "9918424759",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918424759",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xa05bb04b88d02fb199577ebd0959854b4d862e89",
+		"amountDistributed": "545513164",
+		"totalCommitted": "545513164",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "545513164",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xa17472143bf426d407e9e0173ccafe9ffb863c2e",
+		"amountDistributed": "14880575463",
+		"totalCommitted": "14880575463",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "14880575463",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xa24222f894af41f0c481d45323e69a92ae51e608",
+		"amountDistributed": "5455117237",
+		"totalCommitted": "5455117237",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "5455117237",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xa33397fa402e624431ebbb5da752b7f5a6f6bb36",
+		"amountDistributed": "28763426091",
+		"totalCommitted": "28763426091",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "28763426091",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xa3341c66bed7a2fb56667c926def1d6da76997e5",
+		"amountDistributed": "337226176622",
+		"totalCommitted": "337226176622",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "337226176622",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xa3a0931bad4fdff000ff87329adde320cb8f9a79",
+		"amountDistributed": "11412154704",
+		"totalCommitted": "11412154704",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "11412154704",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xa3f5b2be5de42da0d196dda0ba3320bc8b2f5eb0",
+		"amountDistributed": "92101733915",
+		"totalCommitted": "92101733915",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "92101733915",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xa4a42682fc8d45a05378abeca26d50f8c4a3cacf",
+		"amountDistributed": "495961054928",
+		"totalCommitted": "495961054928",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "495961054928",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xa583f99495077952103235ad50606246d69e829f",
+		"amountDistributed": "297591370541",
+		"totalCommitted": "297591370541",
+		"finalSoftCommits": "297591370541",
+		"finalHardCommits": "0",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xa66b7e13467084f248e7d731eb2f9ff8e43db1cf",
+		"amountDistributed": "29755276041",
+		"totalCommitted": "29755276041",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "29755276041",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xa67f3a9a43380e471296b897e5bda2ec9372984e",
+		"amountDistributed": "198418830840",
+		"totalCommitted": "198418830840",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "198418830840",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xa8b8d1d92e62ad58a17f296fc5c9b5bc9ac58369",
+		"amountDistributed": "1003475721",
+		"totalCommitted": "1003475721",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "1003475721",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xa954e39ec3b49a0081e8738bfded4b09d9b8e885",
+		"amountDistributed": "991839046",
+		"totalCommitted": "991839046",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "991839046",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xa958598d228dd5fe7d4d895e8fc2ba6153fe3e6f",
+		"amountDistributed": "19837774272",
+		"totalCommitted": "19837774272",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19837774272",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xab2c57668cb7ecd1cf27f360a89516b6a9987ef5",
+		"amountDistributed": "19841765720",
+		"totalCommitted": "19841765720",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19841765720",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xab423298681dff310d6d541a8548d99f09d46cad",
+		"amountDistributed": "10712588694",
+		"totalCommitted": "10712588694",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "10712588694",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xac0da3a79a854b99b08ba6fae140617901453ba8",
+		"amountDistributed": "5063491230",
+		"totalCommitted": "5063491230",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "5063491230",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xacad95570031453be812b88da058a074c26e3535",
+		"amountDistributed": "3970077726",
+		"totalCommitted": "3970077726",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "3970077726",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xb0ba26dedc9c1ddae319de606c3b1279e26be57e",
+		"amountDistributed": "9918423746",
+		"totalCommitted": "9918423746",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918423746",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xb1945d5962a0a3d9b88679de4409ca377e4d08bd",
+		"amountDistributed": "99238746991",
+		"totalCommitted": "99238746991",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "99238746991",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xb20a327c9b4da091f454b1ce0e2e4dc5c128b5b4",
+		"amountDistributed": "19836774036",
+		"totalCommitted": "19836774036",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19836774036",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xb289f976b0cba5ae8c93caaf2ccd94f6e65ee566",
+		"amountDistributed": "19840962781",
+		"totalCommitted": "19840962781",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19840962781",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xb3884d43eba3f2f7585f3a23f854c150ac31b0e5",
+		"amountDistributed": "1983682763",
+		"totalCommitted": "1983682763",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "1983682763",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xb41e5e177e719ffa9b3e9714abd481a1edad4350",
+		"amountDistributed": "76263021022",
+		"totalCommitted": "76263021022",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "76263021022",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xb460336e8850ba79c56cfa6e47de2fcd3d2d3d63",
+		"amountDistributed": "9918386971",
+		"totalCommitted": "9918386971",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918386971",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xb58edc97aab87f6c5b70a11d890d6e5a1649b16d",
+		"amountDistributed": "29225705391",
+		"totalCommitted": "29225705391",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "29225705391",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xb653d0904d022893cf83cb3b666fd84656d04cbf",
+		"amountDistributed": "12527618684",
+		"totalCommitted": "12527618684",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "12527618684",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xb6830cdfb1324b0f97650ad18017b9ea28d1a7ad",
+		"amountDistributed": "19839816729",
+		"totalCommitted": "19839816729",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19839816729",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xb79717b35fa94d6da35b4f86a6c63c86a21ae804",
+		"amountDistributed": "112092748071",
+		"totalCommitted": "112092748071",
+		"finalSoftCommits": "176016",
+		"finalHardCommits": "112092572055",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xb7c430b36a41ec457d2af948f9e3671ab5de346d",
+		"amountDistributed": "1055446722",
+		"totalCommitted": "1055446722",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "1055446722",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xb7d9945166e3da89ee4c0947230753d656d116a5",
+		"amountDistributed": "99184039584",
+		"totalCommitted": "99184039584",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "99184039584",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xb810d1238dc5e5d664ebc5d19b0fd2c28d42968d",
+		"amountDistributed": "991919141706",
+		"totalCommitted": "991919141706",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "991919141706",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xba7eb754bd6eea7afbddcd8a9e71079da73a91fa",
+		"amountDistributed": "5302371862",
+		"totalCommitted": "5302371862",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "5302371862",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xba818e7f6b208f5a4f7cf282a9248d221144e4e5",
+		"amountDistributed": "1552237607475",
+		"totalCommitted": "1552237607475",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "1552237607475",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xbc21d2d3bb07304609f9e26459e6a042b5b638be",
+		"amountDistributed": "19836785569",
+		"totalCommitted": "19836785569",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19836785569",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xbd0e8fc1fa640ca185205f18f19df653dbf614ac",
+		"amountDistributed": "11903611822",
+		"totalCommitted": "11903611822",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "11903611822",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xbd9c944dcfb31cd24c81ebf1c974d950f44e42b8",
+		"amountDistributed": "19841797195",
+		"totalCommitted": "19841797195",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19841797195",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xbf91a4ea2717820fa2003547f3770098cc267a84",
+		"amountDistributed": "9918423461",
+		"totalCommitted": "9918423461",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918423461",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xc0838ae2be023bc8102a4532d834bb356b21c26d",
+		"amountDistributed": "4562673026",
+		"totalCommitted": "4562673026",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4562673026",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xc1574d420e6cd06ffac1a60fd434eee979a27e2a",
+		"amountDistributed": "21820507979",
+		"totalCommitted": "21820507979",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "21820507979",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xc16fbc6a17bb77a4f8e1e092a6b584eaf019a269",
+		"amountDistributed": "39677603844",
+		"totalCommitted": "39677603844",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "39677603844",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xc1c99cc4c6ba935f233155c5c3dbfe3f0680695f",
+		"amountDistributed": "198410748389",
+		"totalCommitted": "198410748389",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "198410748389",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xc1cad6df277106222dd45cf5b0300fbd4d1193d5",
+		"amountDistributed": "59512711895",
+		"totalCommitted": "59512711895",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "59512711895",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xc22abc747f0d3868ec7d5bcc81badd736d06c619",
+		"amountDistributed": "198367906720",
+		"totalCommitted": "198367906720",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "198367906720",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xc24a8adda8cdc7e137163daf439c78eb305b8f6a",
+		"amountDistributed": "20830020313",
+		"totalCommitted": "20830020313",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "20830020313",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xc3e1ac651f4bd092cde3a3fe0e361ed3a2c4070c",
+		"amountDistributed": "18849170136",
+		"totalCommitted": "18849170136",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "18849170136",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xc4e327d5fff080c5e25510eeae59d05e2bd3ad12",
+		"amountDistributed": "19836856106",
+		"totalCommitted": "19836856106",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19836856106",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xc504a82ff4576ccf7beac98687335a05910505f8",
+		"amountDistributed": "19838371845",
+		"totalCommitted": "19838371845",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19838371845",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xc68feaf82b9ba7a5bcae2f4118f32d83b9bbb223",
+		"amountDistributed": "8610516650",
+		"totalCommitted": "8610516650",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "8610516650",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xc9b31e27477002131b611e557fd10fc6a6a6e3d0",
+		"amountDistributed": "61529987532",
+		"totalCommitted": "61529987532",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "61529987532",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xca1f4f9358f54026b3b25f1451d205a048c11090",
+		"amountDistributed": "29756509497",
+		"totalCommitted": "29756509497",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "29756509497",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xcce6f1a78228e9c492d9ab696c8352f8fe4e1517",
+		"amountDistributed": "198409943422",
+		"totalCommitted": "198409943422",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "198409943422",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xcd84959ccf9cbd0abbc7e20e30c1c05bcbd2533e",
+		"amountDistributed": "99184233988",
+		"totalCommitted": "99184233988",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "99184233988",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xd08b1c91f429f621df7f9f70f0b432c36db6ba13",
+		"amountDistributed": "44632907521",
+		"totalCommitted": "44632907521",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "44632907521",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xd0dc07b98769f23a7bdbef15a35faa256cb65dcf",
+		"amountDistributed": "29755432273",
+		"totalCommitted": "29755432273",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "29755432273",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xd11eb5db7cfbb9ecae4b62e71ec0a461f6baf669",
+		"amountDistributed": "7300068810",
+		"totalCommitted": "7300068810",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "7300068810",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xd3aecf9e0856822bd320873e905ae9f78a2977e7",
+		"amountDistributed": "4959213872",
+		"totalCommitted": "4959213872",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4959213872",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xd4a9579aa76b2eed84f6b39ca5470804bd616dc4",
+		"amountDistributed": "28763429825",
+		"totalCommitted": "28763429825",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "28763429825",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xd6f7af0285068e3745f39607b9aa5f81fed7a6bb",
+		"amountDistributed": "39673809314",
+		"totalCommitted": "39673809314",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "39673809314",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xd7e630afcf128feb8b9071a8412914478c00c22a",
+		"amountDistributed": "29758065793",
+		"totalCommitted": "29758065793",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "29758065793",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xd84e11bee5d555ccd905817cb8cbbd5b6e6c4f0d",
+		"amountDistributed": "2479793344",
+		"totalCommitted": "2479793344",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "2479793344",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xdac959196d0c87b5f285cf259ff7d615f7071235",
+		"amountDistributed": "9918396170",
+		"totalCommitted": "9918396170",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918396170",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xdb4e98a3f86cc7eb66c3276ba5e0930066c9b2e8",
+		"amountDistributed": "9918423500",
+		"totalCommitted": "9918423500",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918423500",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xdc973be53d311d172650dde43a8c11ec47699864",
+		"amountDistributed": "37689993598",
+		"totalCommitted": "37689993598",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "37689993598",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xde0fac9ebe5ae976f4c0e5edf35f36d350346a6a",
+		"amountDistributed": "10073906306",
+		"totalCommitted": "10073906306",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "10073906306",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xdf29ee8f6d1b407808eb0270f5b128dc28303684",
+		"amountDistributed": "10551130661",
+		"totalCommitted": "10551130661",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "10551130661",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xe15e0670f2b7a80f6a3b49fbbf4a039f52d7691d",
+		"amountDistributed": "29781730353",
+		"totalCommitted": "29781730353",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "29781730353",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xe1c93f0eec0070761874d3976e4a968c3b2adc8b",
+		"amountDistributed": "743879165",
+		"totalCommitted": "743879165",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "743879165",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xe32307b731526a00cb32e8678f64ec3fa121f44d",
+		"amountDistributed": "19839351010",
+		"totalCommitted": "19839351010",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19839351010",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xe34e1fd01f5d2d5533a586941f22dc8d4894a0d3",
+		"amountDistributed": "9919670757",
+		"totalCommitted": "9919670757",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9919670757",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xe36230acfb2b70f3925c404f613bbf84c7a4854b",
+		"amountDistributed": "66491732478",
+		"totalCommitted": "66491732478",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "66491732478",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xe397388a67da45c01cb0bc00d1591052c3e0f77b",
+		"amountDistributed": "4959205954",
+		"totalCommitted": "4959205954",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4959205954",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xe4083f1e4ecde085bf7cfa1ac4f1f9a02905698c",
+		"amountDistributed": "49592140517",
+		"totalCommitted": "49592140517",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "49592140517",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xe54e33a39643d5ce792da297ff7ed612397820a9",
+		"amountDistributed": "59510543362",
+		"totalCommitted": "59510543362",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "59510543362",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xe7497c268120a11355cc87e754174fd627cbaff0",
+		"amountDistributed": "5951054520",
+		"totalCommitted": "5951054520",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "5951054520",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xe754bbe52b2ebf5d56d37cb064bee6d03ebdde27",
+		"amountDistributed": "71431627860",
+		"totalCommitted": "71431627860",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "71431627860",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xe8bce8ee70130bb833dd9be36d021ab474344b09",
+		"amountDistributed": "496048883",
+		"totalCommitted": "496048883",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "496048883",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xe8dbcd7b6e3b8e695de17216e5a842eb3f87a6bd",
+		"amountDistributed": "2451837793",
+		"totalCommitted": "2451837793",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "2451837793",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xe97063e17a312281db15d9496cc7eabc7a459a5f",
+		"amountDistributed": "2975746560",
+		"totalCommitted": "2975746560",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "2975746560",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xe9b9a2747510e310241d2ece98f56b3301d757e0",
+		"amountDistributed": "79347117438",
+		"totalCommitted": "79347117438",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "79347117438",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xeaa1a457be1e9b4712f20832f18d2f6571b2c422",
+		"amountDistributed": "23758487129",
+		"totalCommitted": "23758487129",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "23758487129",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xeac7816f17ce36214f228c131c633c7adcaf5dd1",
+		"amountDistributed": "19836847028",
+		"totalCommitted": "19836847028",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19836847028",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xeb2fcc4ca641e0f7af3bc8b071d58237ed2c9fc5",
+		"amountDistributed": "81755871545",
+		"totalCommitted": "81755871545",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "81755871545",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xeb788c3fcd60df7687ce55bb20bbcb5238c72133",
+		"amountDistributed": "9918388549",
+		"totalCommitted": "9918388549",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918388549",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xed0263e46ad0283977823a6ebf76179796321a73",
+		"amountDistributed": "54556007627",
+		"totalCommitted": "54556007627",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "54556007627",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xed02f16a57c32a08b55d923bf4690d200722f462",
+		"amountDistributed": "19836789982",
+		"totalCommitted": "19836789982",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19836789982",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xed11d18dda0588924bfbe22261982e580536e69d",
+		"amountDistributed": "793470953",
+		"totalCommitted": "793470953",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "793470953",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xed37249b84cedffc456fa3c56761a7ee350e9885",
+		"amountDistributed": "19848356740",
+		"totalCommitted": "19848356740",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19848356740",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xedf7b675a2fe3c27efb263fb4c204a3f0fb17d46",
+		"amountDistributed": "49592793844",
+		"totalCommitted": "49592793844",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "49592793844",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xee36c488426ab6c7d37f00a48442eda6b5dfb24e",
+		"amountDistributed": "49653193251",
+		"totalCommitted": "49653193251",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "49653193251",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xefaef3a9b2bc9b1464c1f85715b6915de4ec659d",
+		"amountDistributed": "49592107838",
+		"totalCommitted": "49592107838",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "49592107838",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xf013ec703f52d0a0138d797591b4ded7ef245a23",
+		"amountDistributed": "14877817377",
+		"totalCommitted": "14877817377",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "14877817377",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xf0835c9ae1d0bd0f783846692a8cecd8991ad28a",
+		"amountDistributed": "12897256589",
+		"totalCommitted": "12897256589",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "12897256589",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xf0b287da3091856d50516eec82cf234668a59cd2",
+		"amountDistributed": "66917338076",
+		"totalCommitted": "66917338076",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "66917338076",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xf1a9ad2af110a8423d5d88060f39feb2cbe0d762",
+		"amountDistributed": "4962789312",
+		"totalCommitted": "4962789312",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4962789312",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xf41ad43f7750bca982b34812eb5298c2c64302da",
+		"amountDistributed": "11904327613",
+		"totalCommitted": "11904327613",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "11904327613",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xf585cd48587ec1565ac74667e0b0585e05e23743",
+		"amountDistributed": "84306295112",
+		"totalCommitted": "84306295112",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "84306295112",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xf5ade58b10dfe64005ef10bb9073734e82f5edaa",
+		"amountDistributed": "39676076355",
+		"totalCommitted": "39676076355",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "39676076355",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xf69ea6646cf682262e84cd7c67133eac59cef07b",
+		"amountDistributed": "99183959418",
+		"totalCommitted": "99183959418",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "99183959418",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xf6a5d60effea73c21f77384216bea9abe2a206b5",
+		"amountDistributed": "19848498190",
+		"totalCommitted": "19848498190",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "19848498190",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xf7a489bbd270e60c8c53df31c36aeffa14a9260b",
+		"amountDistributed": "9920964289",
+		"totalCommitted": "9920964289",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9920964289",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xfc8433e78f40b0dab7ce2e026c79837aa1818e97",
+		"amountDistributed": "9918422460",
+		"totalCommitted": "9918422460",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "9918422460",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xfcfa4369eaa965ac4e36f1dd9fd2852c6542b0f7",
+		"amountDistributed": "1487763165",
+		"totalCommitted": "1487763165",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "1487763165",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xfd94fa558d82a4522ee18a170923d85ce331bf7f",
+		"amountDistributed": "4959209908",
+		"totalCommitted": "4959209908",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "4959209908",
+		"isDistributionCorrect": true
+	},
+	{
+		"investor": "0xff6d6ae87b6431564737834bf733a13af4b734f4",
+		"amountDistributed": "59544688257",
+		"totalCommitted": "59544688257",
+		"finalSoftCommits": "0",
+		"finalHardCommits": "59544688257",
+		"isDistributionCorrect": true
+	}
+]
